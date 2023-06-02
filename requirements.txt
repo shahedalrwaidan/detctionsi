@@ -118,4 +118,4 @@ yarg==0.1.9
 opencv-python
 
 opencv_contrib_python==4.6.0.66
-opencv-python-headless==4.2.0.32
+opencv-python-headless
