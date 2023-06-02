@@ -115,5 +115,7 @@ Werkzeug==2.2.3
 wincertstore==0.2
 xgboost==1.7.4
 yarg==0.1.9
+opencv-python
+
 opencv_contrib_python==4.6.0.66
 opencv-python-headless
