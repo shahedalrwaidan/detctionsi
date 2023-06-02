@@ -20,7 +20,7 @@ class VideoTransformer(VideoTransformerBase):
             ,'noon-', 'playground', 'qaf-','sad-', 'salam- -','saturday', 'school_', 'sick', 'sin-', 'sleep', 'sorry', 'sunday', 'ta-', 'thursday', 'tuesday-', 'university','wau-','yaa','zero'
             ]
 
-        self.model = YOLO('C:/Users/Lenovo/Desktop/local omdena -jordan/code/task5-test/best.pt')
+        self.model = YOLO('best.pt')
         self.LabelArabic=[]
         
 
