@@ -1,4 +1,4 @@
-pip==23.1.2
+pip ==23.1.2
 absl-py==1.4.0
 aioice==0.9.0
 aiortc==1.5.0
@@ -48,8 +48,7 @@ nbconvert==5.5.0
 networkx==3.1
 numpy==1.24.2
 oauthlib==3.2.2
-opencv-python
-opencv-python-headless
+opencv-python==4.7.0.68
 opt-einsum==3.3.0
 orderedmultidict==1.0.1
 pandas==1.5.3
@@ -100,10 +99,10 @@ termcolor==2.2.0
 thop==0.1.1.post2209072238
 threadpoolctl==3.1.0
 toolz==0.12.0
-torch==1.9.0
-torchvision==0.10.0
+torch==2.0.0
+torchvision==0.15.1
 tqdm==4.65.0
-typing-extensions==4.0.1
+typing_extensions==4.6.2
 tzdata==2023.3
 tzlocal==4.2
 ultralytics==8.0.110
@@ -116,3 +115,6 @@ Werkzeug==2.2.3
 wincertstore==0.2
 xgboost==1.7.4
 yarg==0.1.9
+opencv-python
+opencv_contrib_python==4.6.0.66
+opencv-python-headless
