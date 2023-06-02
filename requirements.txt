@@ -32,7 +32,6 @@ google-pasta==0.2.0
 grpcio==1.51.1
 h5py==3.8.0
 ifaddr==0.2.0
-importlib-metadata==4.14.4
 inflection==0.5.1
 joblib==1.2.0
 keras==2.11.0
